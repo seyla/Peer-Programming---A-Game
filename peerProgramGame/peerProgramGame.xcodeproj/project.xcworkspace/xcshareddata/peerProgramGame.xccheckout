@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>9F0F776F-0BCB-471A-841E-97EC828A4750</string>
+	<key>IDESourceControlProjectName</key>
+	<string>peerProgramGame</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>8AAD2F0FF2F6B0F6CEB7C538B3FF9FC81CD2B279</key>
+		<string>https://github.com/codedre/Peer-Programming---A-Game.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>peerProgramGame/peerProgramGame.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>8AAD2F0FF2F6B0F6CEB7C538B3FF9FC81CD2B279</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/codedre/Peer-Programming---A-Game.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>8AAD2F0FF2F6B0F6CEB7C538B3FF9FC81CD2B279</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>8AAD2F0FF2F6B0F6CEB7C538B3FF9FC81CD2B279</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Peer-Programming---A-Game</string>
+		</dict>
+	</array>
+</dict>
+</plist>
